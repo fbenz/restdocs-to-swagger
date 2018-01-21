@@ -1,0 +1,19 @@
+|===
+|Parameter|Type|Optional|Description
+
+|id
+|String
+|false
+|Item ID.
+
+Must be a valid ID.
+
+|child
+|String
+|false
+|Child ID.
+
+DE: Must be at most 2. +
+EN: Must be at least 1.
+
+|===

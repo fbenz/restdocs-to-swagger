@@ -1,0 +1,19 @@
+|===
+|Path|Type|Optional|Description
+
+|type
+|String
+|false
+|Determines the type of metadata.
+
+|tag
+|String
+|true
+|Tag attribute. Available only if metadata type=1.
+
+|order
+|Integer
+|true
+|Order attribute. Available only if metadata type=2.
+
+|===

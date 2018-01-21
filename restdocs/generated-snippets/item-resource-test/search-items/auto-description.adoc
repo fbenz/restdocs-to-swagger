@@ -1,0 +1,5 @@
+Searches for item based on lookup parameters.
+
+An example of using Pageable, Page and customized translation for paging text.
+
+See link:https://scacap.github.io/spring-auto-restdocs/#paging[paging documentation].

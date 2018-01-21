@@ -1,0 +1,3 @@
+Returns item by ID.
+
+An example of returning a custom response type.

@@ -1,0 +1,9 @@
+|===
+|Path|Type|Optional|Description
+
+|command
+|String
+|false
+|Command to execute.
+
+|===

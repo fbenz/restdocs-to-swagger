@@ -1,0 +1,6 @@
+[[resources-documentation-test-docs-forwarding]]
+=== { class - name } / { method - name }
+
+include::{snippets}/documentation-test/docs-forwarding/auto-method-path.adoc[]
+
+include::{snippets}/documentation-test/docs-forwarding/auto-description.adoc[]

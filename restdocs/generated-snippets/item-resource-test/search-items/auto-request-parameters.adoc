@@ -1,0 +1,21 @@
+Uses <<overview-pagination,pagination>> query params.
+
+|===
+|Parameter|Type|Optional|Description
+
+|desc
+|String
+|false
+|Lookup on description field.
+
+Size must be between 0 and 255 inclusive.
+
+|hint
+|Integer
+|true
+|Lookup hint.
+
+Must be at least 10. +
+Must be at most 100.
+
+|===

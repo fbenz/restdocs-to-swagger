@@ -1,0 +1,9 @@
+|===
+|Path|Type|Optional|Description
+
+|output
+|String
+|false
+|Log output.
+
+|===

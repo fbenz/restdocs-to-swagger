@@ -1,0 +1,9 @@
+Executes a command on an item. +
+This endpoint demos the basic support for @ModelAttribute.
+
+Notes:
+
+- the request body is documented as it would be JSON, but it is actually form-urlencoded
+- setting the type manually can help to get the right documentation if the automatic document does not produce the right result.
+
+An example of using ModelAttribute.

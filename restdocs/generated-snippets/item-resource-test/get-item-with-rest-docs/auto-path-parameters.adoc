@@ -1,0 +1,11 @@
+|===
+|Parameter|Type|Optional|Description
+
+|id
+|String
+|false
+|ID of the item.
+
+Must be a valid ID.
+
+|===

@@ -1,0 +1,5 @@
+Retrieves a child of specified item.
+
+An example of using parameter validation.
+
+See link:https://scacap.github.io/spring-auto-restdocs/#constraints[constraints documentation].

@@ -1,0 +1,3 @@
+Validates metadata.
+
+An example of accepting subtypes.

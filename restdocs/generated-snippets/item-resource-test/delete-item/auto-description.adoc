@@ -1,0 +1,8 @@
+Deletes item. +
+Item must exist.
+
+Non existing items are ignored
+
+An example of using path variables.
+
+See link:https://scacap.github.io/spring-auto-restdocs/#snippets-path-parameters[path parameters documentation].

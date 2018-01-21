@@ -1,0 +1,11 @@
+|===
+|Path|Type|Optional|Description
+
+|name
+|String
+|true
+|**Deprecated.**
+
+New item's name.
+
+|===

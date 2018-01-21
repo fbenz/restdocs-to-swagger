@@ -1,0 +1,8 @@
+|===
+|Path|Type|Description
+
+|`id`
+|`String`
+|There are more fields but only the ID field is documented.
+
+|===

@@ -1,0 +1,23 @@
+|===
+|Path|Type|Optional|Description
+
+|description
+|String
+|true +
+EN: false
+|Some information about the item.
+
+DE: Size must be between 2 and 10 inclusive. +
+EN: Size must be between 4 and 12 inclusive. +
+Length must be between 0 and 20 inclusive.
+
+|type
+|String
+|true
+|Country dependent type of the item.
+
+DE: Must be one of [klein, groß]. +
+EN: Must be one of [small, big]. +
+Size must be between 0 and 1000 inclusive.
+
+|===

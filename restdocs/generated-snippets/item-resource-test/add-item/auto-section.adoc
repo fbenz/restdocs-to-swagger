@@ -1,0 +1,34 @@
+[[resources-item-resource-test-add-item]]
+=== Add Item
+
+include::{snippets}/item-resource-test/add-item/auto-method-path.adoc[]
+
+include::{snippets}/item-resource-test/add-item/auto-description.adoc[]
+
+==== Authorization
+
+include::{snippets}/item-resource-test/add-item/auto-authorization.adoc[]
+
+==== Path parameters
+
+include::{snippets}/item-resource-test/add-item/auto-path-parameters.adoc[]
+
+==== Query parameters
+
+include::{snippets}/item-resource-test/add-item/auto-request-parameters.adoc[]
+
+==== Request fields
+
+include::{snippets}/item-resource-test/add-item/auto-request-fields.adoc[]
+
+==== Response fields
+
+include::{snippets}/item-resource-test/add-item/auto-response-fields.adoc[]
+
+==== Example request
+
+include::{snippets}/item-resource-test/add-item/curl-request.adoc[]
+
+==== Example response
+
+include::{snippets}/item-resource-test/add-item/http-response.adoc[]

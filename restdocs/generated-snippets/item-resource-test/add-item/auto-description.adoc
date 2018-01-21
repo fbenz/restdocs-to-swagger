@@ -1,0 +1,3 @@
+Adds new item.
+
+An example of accepting a custom type as request body and returning a {@link ResponseEntity}.

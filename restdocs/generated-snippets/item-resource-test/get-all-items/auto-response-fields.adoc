@@ -1,0 +1,92 @@
+|===
+|Path|Type|Optional|Description
+
+|[].id
+|String
+|false
+|Unique ID. This text comes directly from Javadoc.
+
+|[].meta
+|Object
+|true
+|Metadata.
+
+An example of JsonSubType support. +
+See link:https://github.com/FasterXML/jackson-annotations/wiki/Jackson-Annotations#type-handling[ Jackson type documentation].
+
+|[].meta.type
+|String
+|false
+|Determines the type of metadata.
+
+|[].meta.tag
+|String
+|true
+|Tag attribute. Available only if metadata type=1.
+
+|[].meta.order
+|Integer
+|true
+|Order attribute. Available only if metadata type=2.
+
+|[].attributes
+|Object
+|true
+|Item attributes.
+
+|[].attributes.text
+|String
+|false
+|Textual attribute.
+
+Size must be between 2 and 20 inclusive.
+
+|[].attributes.number
+|Integer
+|false
+|Integer attribute.
+
+Must be at least 1. +
+Must be at most 10.
+
+|[].attributes.bool
+|Boolean
+|true
+|Boolean attribute.
+
+|[].attributes.decimal
+|Decimal
+|true
+|Decimal attribute.
+
+Must be at least 1. +
+Must be at most 10.
+
+|[].attributes.amount
+|String
+|false
+|Amount attribute.
+
+|[].attributes.enumType
+|String
+|false
+|Enum attribute.
+
+Must be one of [ONE, TWO].
+
+|[].children
+|Array[Object]
+|false
+|Child items (recursive). Same structure as this response.
+
+|[].tags
+|Array[String]
+|true
+|Tags.
+
+|[].description
+|String
+|true
+|Some information \| description about the item.
+
+|===

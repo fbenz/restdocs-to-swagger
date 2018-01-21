@@ -1,0 +1,5 @@
+[source,bash]
+----
+$ curl 'http://localhost:8080/items/1' -i -X DELETE \
+    -H 'Authorization: Bearer e7d9a372-d146-4c0a-8754-04e655893371'
+----

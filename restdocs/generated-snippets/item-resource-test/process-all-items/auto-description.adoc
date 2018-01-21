@@ -1,0 +1,3 @@
+Executes a command on all items.
+
+An example of having String as request and response body.

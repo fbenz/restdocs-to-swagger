@@ -1,0 +1,5 @@
+**Deprecated.** Create a new item instead.
+
+Clones an item.
+
+An example of deprecation.

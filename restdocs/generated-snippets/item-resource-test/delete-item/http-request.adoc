@@ -1,0 +1,7 @@
+[source,http,options="nowrap"]
+----
+DELETE /items/1 HTTP/1.1
+Authorization: Bearer e7d9a372-d146-4c0a-8754-04e655893371
+Host: localhost:8080
+
+----

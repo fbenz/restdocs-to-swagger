@@ -1,0 +1,8 @@
+./items/{id}
+|===
+|Parameter|Description
+
+|`id`
+|ID of the item.
+
+|===
